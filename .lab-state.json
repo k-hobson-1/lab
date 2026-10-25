@@ -6,5 +6,13 @@
   "publisherPrefix": "lab",
   "repo": "k-hobson-1/lab",
   "mainRulesetId": 25828412,
-  "mainRulesetName": "lab-main-protection"
+  "mainRulesetName": "lab-main-protection",
+  "devEnvUrl": "https://wm-dev-6474.crm.dynamics.com",
+  "devEnvId": "0cc7a27c-6e68-ef10-b5c3-95046dc4a215",
+  "devOrgId": "f78371b3-95d0-f111-a04e-6045bd003124",
+  "devProfile": "dev",
+  "testEnvUrl": "https://wm-test-6474.crm.dynamics.com",
+  "testEnvId": "21d703dd-1459-e6c3-8e1a-b1c4ff712e06",
+  "testOrgId": "3162dece-d9cf-f111-be87-6045bd06d926",
+  "testProfile": "test"
 }
